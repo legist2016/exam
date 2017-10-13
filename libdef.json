@@ -2,5 +2,10 @@
   {
     "title":"公共卫生",
     "url":"https://raw.githubusercontent.com/legist2016/exam/master/public.json"
+  },
+  {
+    "title":"人文综合",
+    "url":"https://raw.githubusercontent.com/legist2016/exam/master/renwen.json"
   }
+
 ]
