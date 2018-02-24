@@ -1,1 +1,10 @@
-
+{
+  "logo":"https://raw.githubusercontent.com/legist2016/exam/master/Logo_001.jpg",
+  "images":[
+    "https://raw.githubusercontent.com/legist2016/exam/master/Other_001.jpg",
+    "https://raw.githubusercontent.com/legist2016/exam/master/Other_002.pg",
+    "https://raw.githubusercontent.com/legist2016/exam/master/Other_003.jpg",
+    "https://raw.githubusercontent.com/legist2016/exam/master/Other_004.jpg",
+    "https://raw.githubusercontent.com/legist2016/exam/master/Other_005.jpg"
+  ]
+}
